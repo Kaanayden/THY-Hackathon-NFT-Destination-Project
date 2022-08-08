@@ -2,7 +2,6 @@ Başlatmak için:
 
 npm install
 
-
 npm run
 
 
