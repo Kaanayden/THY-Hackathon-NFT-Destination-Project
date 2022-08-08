@@ -1,0 +1,8 @@
+0.json
+1.json
+2.json diye gidecek
+
+https://github.com/Kaanayden/NFT-Destinations-Metadata/tree/main/tokens
+
+metadata sıraları da aynı olmalı
+continent sonra latitude sonra longtitude
